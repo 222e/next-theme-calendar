@@ -1,3 +1,4 @@
+>适配next-theme，并修改了样式。
 # theme-next-calendar
 
 简洁的hexo-next日历云插件, 在日历上显示提交标记
